@@ -13,7 +13,7 @@
 
 #### Используемые технологии
 
-#### Front:
+#### FrontEnd:
 
 Dart/Flutter 
 
