@@ -1,0 +1,68 @@
+name: mshi
+description: Want Art Team May 2023
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.1 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  curved_navigation_bar: ^1.0.3
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.6
+  widget_mask: ^1.0.0+0
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^2.0.0
+
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/source/icon_512.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/backgrounds/
+    - assets/images/masks/
+    - assets/images/logo/
+    - assets/images/onboarding/
+    - assets/images/onboarding/solved/
+    - assets/images/media/
+    - assets/images/admin/
+    - assets/images/module/
+    - assets/images/search_bar/
+    - assets/icons/
+    - assets/source/
+
+  fonts:
+    - family: DeeDee
+      fonts:
+        - asset: assets/fonts/deedee/DeeDee.ttf
+        - asset: assets/fonts/deedee/DeeDee-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/deedee/DeeDee-Light.ttf
+          weight: 300
+        - asset: assets/fonts/deedee/DeeDee-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/deedee/DeeDee-Heavy.ttf
+          weight: 800
+    - family: Madelyn
+      fonts:
+        - asset: assets/fonts/madelyn/Madelyn.otf
+    - family: Calibri
+      fonts:
+        - asset: assets/fonts/calibri/Calibri-Regular.TTF
+        - asset: assets/fonts/calibri/Calibri-Light-Regular.ttf
+          weight: 100
+        - asset: assets/fonts/calibri/Calibri-Bold.ttf
+          weight: 600
