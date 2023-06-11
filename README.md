@@ -6,7 +6,7 @@
 
 Ссылка на скачивание APK для финала
 
-https://drive.google.com/file/d/1z17QaqBCdblsERy6UF8OpgvX1dejfB_N/view?usp=drive_link
+https://drive.google.com/file/d/1xivLkeaMzJBdHCVVbdHueyzy3-80Cfuw/view?usp=drive_link
 
 ### Документация
 
